@@ -1,0 +1,65 @@
+
+m,strong{
+	font-family: "molle",cursive;
+}
+w{
+	color:rgb(255,255,255);
+}
+
+
+
+.bg_heart{
+	background:url(../images/heart_1.jpg) no-repeat;
+}
+
+.bg_2{
+	background:url(../images/foat.jpg) no-repeat;
+}
+
+.bg_4{
+	background:url(../images/fangte_x.jpg) no-repeat rgba(0,0,0,0);
+	background-size: 950px;
+	background-position: -50px 0px;
+}
+
+.bg_3{
+	background:url(../images/titanic.jpg) no-repeat;
+	background-size: 1200px;
+}
+.bg_5{
+	background:url(../images/us.jpg) no-repeat;
+	background-size: 500px;
+	background-position: bottom;
+}
+
+
+
+#bored.present .rotating {
+    -webkit-transform: rotate(-10deg);
+    -moz-transform:    rotate(-10deg);
+    -ms-transform:     rotate(-10deg);
+    -o-transform:      rotate(-10deg);
+    transform:         rotate(-10deg);
+
+    -webkit-transition-delay: 1.25s;
+    -moz-transition-delay:    1.25s;
+    -ms-transition-delay:     1.25s;
+    -o-transition-delay:      1.25s;
+    transition-delay:         1.25s;
+}
+
+#fangte .pic{
+	color:rgb(252,255,176);
+	font-family: 'Permanent Marker', cursive;
+}
+
+#title font {
+    font-family:  "molle",cursive;
+}
+#its strong{
+	color:rgb(179,207,238);
+}
+.footnote{
+	font-size: 32px
+}
+
