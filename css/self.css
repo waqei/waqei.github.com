@@ -1,3 +1,5 @@
+/*author: zhwei
+仅用于本网站的样式修改*/
 
 m,strong{
 	font-family: "molle",cursive;
@@ -32,6 +34,19 @@ w{
 	background-position: bottom;
 }
 
+.bg_6{
+
+	background:url(../images/fear.jpg) no-repeat;
+	/*background-size: 500px;*/
+	background-position: bottom;
+}
+.bg_7{
+
+	background:url(../images/old.jpg) no-repeat;
+	/*background-size: 500px;*/
+	background-position: bottom;
+}
+
 
 
 #bored.present .rotating {
@@ -62,4 +77,19 @@ w{
 .footnote{
 	font-size: 32px
 }
+.sms{
+    background: rgba(255,255,255,0.5);
+    text-shadow: -1px -1px 2px rgba(100,100,100,0.9);
+    border-radius: 0.2em;
+    padding: 0 0.1em;
+}
 
+#fear {
+    width: 650px;
+    height: 500px;
+}
+
+#old {
+    width: 650px;
+    height: 600px;
+}
